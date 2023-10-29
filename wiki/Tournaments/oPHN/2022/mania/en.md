@@ -4,11 +4,11 @@ tags:
   - PHNM 2022
 ---
 
-# osu! Philippines Nationals 2022 (osu!mania 4K/7K)
+# osu! Philippines Nationals 2022 - osu!mania 4K/7K
 
 ![PHNM2022 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) is a one-on-one, osu!mania tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) was a one-on-one, osu!mania 4K and 7K tournament made for osu! players based in the Philippines or of Filipino Heritage.
 
 ## Tournament schedule
 
@@ -21,8 +21,8 @@ The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) is a
 | Round of 16 | 2022-06-18/2022-06-19 |
 | Quarterfinals | 2022-06-25/2022-06-26 |
 | Semifinals | 2022-07-02/2022-07-03 |
-| Finals Week 1| 2022-07-09/2022-07-10 |
-| Finals Week 2 | 2022-07-16/2022-07-17 |
+| Finals week 1| 2022-07-09/2022-07-10 |
+| Finals week 2 | 2022-07-16/2022-07-17 |
 
 ## Prizes
 
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools (osu!mania 4K)
 
-### Grand Finals
+### Grand finals
 
 - Rice
 1. [NicDroid - Lumpiang Shanghai Deluxe (Arccat) [Chili Sauce 1.1x (165bpm)]](https://osu.ppy.sh/beatmapsets/1756891#mania/3595381)
@@ -242,7 +242,7 @@ This competition has come to an end and resulted in the following podium:
 3. [Snail's House - Okashi no oukoku (arccat) [stupud man's Daydream 1.15x]](https://osu.ppy.sh/beatmapsets/1784636#mania/3655072)
 4. [Jin - Additional Memory (Arccat) [Eidetic 1.1x]](https://osu.ppy.sh/beatmapsets/1727197#mania/3529780)
 5. [Se-U-Ra - Traveler ~Stand Aloof~ (aeoliancarp) [Distances [1.1x]]](https://osu.ppy.sh/beatmapsets/1414239#mania/3005987)
-6. [Qebrus - ? ?????????? ???? ??????????????????„¡ ???? ????????? ????? ??????? ([GS]Rose) [delirium (edit)]](https://osu.ppy.sh/beatmapsets/1636506#mania/3528143)
+6. [Qebrus - ? ?????????? ???? ??????????????????ï¿½ï¿½ ???? ????????? ????? ??????? ([GS]Rose) [delirium (edit)]](https://osu.ppy.sh/beatmapsets/1636506#mania/3528143)
 - Long Note
 1. [Dr.Honda - Dances with Snow Fairies ([Crz]Crysarlene) [Winter Resort]](https://osu.ppy.sh/beatmapsets/1039275#mania/2172419)
 2. [Madeon - Pop Culture (chxu) [Potatoes]](https://osu.ppy.sh/beatmapsets/1352407#mania/2799736)
@@ -276,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
 1. [Camellia - Body F10ating in the Zero Gravity Space (Eclipse-) [Celestial Descent]](https://osu.ppy.sh/beatmapsets/1336073#mania/2767905)
 
-### Group Stage
+### Group stage
 
 - Rice
 1. [EBIMAYO - GOODBOUNCE (Mipha-) [GOODFILE]](https://osu.ppy.sh/beatmapsets/1720834#mania/3516795)
@@ -309,7 +309,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools (osu!mania 7K)
 
-### Grand Finals
+### Grand finals
 
 - Rice
 1. [Shiraishi - Moon Gate (lenpai) [Kawawa's [BMS wawather LV.22] @ 182]	](https://osu.ppy.sh/beatmapsets/1804630#mania/3700624)
@@ -418,7 +418,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
 1. [Hino Isuka - Cheerful Cute Light (Critical_Star) [CS & Kawawa's Chiptune M4STER!!]](https://osu.ppy.sh/beatmapsets/1362360#mania/2818769)
 
-### Group Stage
+### Group stage
 
 - Rice
 1. [Alan Walker - Alone (yahweh) [Friendship Everlasting]](https://osu.ppy.sh/beatmapsets/1304248#mania/2704456)
@@ -449,7 +449,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match Results (osu!mania 4K)
 
-### Grand Finals
+### Grand finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -505,7 +505,7 @@ This competition has come to an end and resulted in the following podium:
 | **Apol-** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: gl_eo | [#1](https://osu.ppy.sh/community/matches/101597195) |
 | **\[KN\]Puddles** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: Axfaerie | *win by default* |
 
-### Group Stage
+### Group stage
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -534,9 +534,9 @@ This competition has come to an end and resulted in the following podium:
 | **gl_eo** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: Sachianii | [#1](https://osu.ppy.sh/community/matches/101402822) |
 | **betanrobot** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Olaf | *win by default* |
 
-## Match Results (osu!mania 7K)
+## Match results (osu!mania 7K)
 
-### Grand Finals
+### Grand finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -591,7 +591,7 @@ This competition has come to an end and resulted in the following podium:
 | **Sanni** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: nickulott | [#1](https://osu.ppy.sh/community/matches/101594010) |
 | **Berrii** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: Argefangirl | *win by default* |
 
-### Group Stage
+### Group stage
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -624,17 +624,17 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### Tournament Organization
+### Tournament organization
 
-#### Gamemode and Introduction
+#### Gamemode and introduction
 
 As the tournament name implies, this is an osu!mania tournament set up as a national championships for the Philippine osu!mania community. This tournament accommodates both 4K and 7K as separate tournaments.
 
-#### General Eligibility Rules
+#### General eligibility rules
 
 Players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but can present a proof of their Philippine Citizenship to the staff are the only ones allowed to join the tournament. Staff Members who are NOT Referees, Mappool Selectors, Hosts, nor are part of any managing role are permitted to join the tournament.
 
-#### Round Overview
+#### Round overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
  - Qualification Stage: 6 song mappool, no winning condition, no tiebreaker song
@@ -647,7 +647,7 @@ The tournament is played 1 player versus 1 player
 
 Mods that are allowed to be used in matches, if the player opts to use them, are, Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, Score v2 is implemented.
 
-#### Qualification Process
+#### Qualification process
 
 All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. If an appropriate group stage allocation is found with a non-power of 2, then that will be used instead. The maximum number of players who can advance to the subsequent round is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
 
@@ -663,7 +663,7 @@ Regardless of the number of entrants and eliminations, the qualification process
 
 Players are discouraged from disclosing, streaming, or discussing their qualifier round scores in public until after the results are finalized. This is to make sure that all of the players will give it their all and avoid seed manipulation.
 
-#### Group Stage
+#### Group stage
 
 After the Qualification stage, the remaining players will be divided into 4 different pots based on their qualification seed. These pots will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group through a live draw.
 
@@ -681,7 +681,7 @@ In the second round of Group Stage, the loser of the first match and the winner 
 
 In the osu!mania 7K Division, the best four 3rd placers will be advancing to the Bracket Stage in addition to the slots as explained earlier.
 
-#### Bracket Stage
+#### Bracket stage
 
 The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 
@@ -695,9 +695,9 @@ Players who are in the winners bracket are required to play in one match in each
 
 Players who are in the losers bracket at the start of Semifinals week or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
-#### Match Protocol
+#### Match protocol
 
 Your matches will be listed in schedules. It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.
 
@@ -723,7 +723,7 @@ It is our right as the PHNM2022 staff to reprimand users for intolerable behavio
  - PHNM2022 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
  - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players, although a player may also skip their warm-up upon notification to the referee. All warm-up songs must be osu!mania 4K or 7K specific notecharts, depending on the division, and must be no longer than 4 minutes.
 
@@ -737,7 +737,7 @@ Warm-up songs will be on FreeMod, which allows for any special modifications tha
 
 Players who opt to play a warm-up chart before the match proper must submit their warm-up links no longer than 15 minutes before the scheduled start of the match. Players who fail to do so will not be allowed to set a warm-up chart.
 
-#### Bans, Protects, Rolls, and Song Selections
+#### Bans, protects, rolls, and song selections
 
 With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Similar to the qualification stage, mods that are allowed to be used in matches, if the player opts to use them, are Hidden, Flashlight, Fade In, Mirror, and No Fail.
 
@@ -770,8 +770,8 @@ A two minute timer will be placed on a disconnected player when the song played 
 
 Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-#### Player Abuse
+#### Player abuse
 
 Players that are caught abusing and/or bending the rules to their advantage is tantamount to disqualification from the tournament without appeal. More grave cases may also mean disqualification from participation from further osu! Philippines Tournaments.
 
-Ruleset is adapted from [SOFT 6](https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6) and previous osu! PH tournaments.
+*Ruleset is adapted from [SOFT 6](https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6) and previous osu! PH tournaments.*

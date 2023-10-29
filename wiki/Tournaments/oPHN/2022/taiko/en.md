@@ -4,11 +4,11 @@ tags:
   - PHNT 2022
 ---
 
-# osu! Philippines Nationals 2022 (osu!taiko)
+# osu! Philippines Nationals 2022 - osu!taiko
 
 ![PHNT2022 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2022 (osu!taiko)** (***PHNT 2022***) is a one-on-one, osu!taiko tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2022 (osu!taiko)** (***PHNT 2022***) was a one-on-one, osu!taiko tournament made for osu! players based in the Philippines or of Filipino Heritage.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **osu! Philippines Nationals 2022 (osu!taiko)** (***PHNT 2022***) is a one-o
 | Quarterfinals | 2022-08-06/2022-08-07 |
 | Semifinals | 2022-08-13/2022-08-14 |
 | Finals | 2022-08-20/2022-08-21 |
-| Grand Finals | 2022-08-27/2022-08-28 |
+| Grand finals | 2022-08-27/2022-08-28 |
 
 ## Prizes
 
@@ -37,9 +37,9 @@ The osu! Philippines Nationals 2022 (osu!taiko) was ran by various community mem
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993) |
-| Mappool Selector | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) |
-| Custom Mapper | ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=SG }:: [Rycy](https://osu.ppy.sh/users/7394522), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344) |
-| Mappool Tester | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
+| Mappool selector | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) |
+| Custom mapper | ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=SG }:: [Rycy](https://osu.ppy.sh/users/7394522), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344) |
+| Mappool tester | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525), ::{ flag=SG }:: [Rycy](https://osu.ppy.sh/users/7394522), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Lawrence Angelo](https://osu.ppy.sh/users/10373568), ::{ flag=PH }:: [Qwertythanzip](https://osu.ppy.sh/users/16277295), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [snappyguy](https://osu.ppy.sh/users/9396986), ::{ flag=PH }:: [Syntoxical](https://osu.ppy.sh/users/18105116) |
@@ -86,7 +86,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Finals
+### Grand finals
 
 - No Mod
   1. [Mr.Asyu - Haunted Dance (KTYN) [Inner Oni]](https://osu.ppy.sh/beatmapsets/1339043#taiko/2774057)
@@ -222,9 +222,9 @@ This competition has come to an end and resulted in the following podium:
 - Freemod
   1. [Chroma - Test Flight (-Dusk) [Cynp-zy's Oni]](https://osu.ppy.sh/beatmapsets/1684178#taiko/3444458)
 
-## Match Results
+## Match results
 
-### Grand Finals
+### Grand finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -281,14 +281,14 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. This is an osu!taiko, double-elimination, IVI tournament, which is open for players globally ranked from #1000 to #10000 (inclusive) with the Philippine flag on their profile. Filipino players without the Philippine flag on their profile may present a proof of their Philippine citizenship in order to join. Hosts, poolers (custom mappers and playtesters included), and referees are strictly not allowed to play.
 2. Matches will use ScoreV2 and NoFaiI in Head-to-Head mode.
 3. Players and staff must be treated with respect. Instructions from the hosts and referees are to be followed. Abusing the rules and poor sportsmanship may result in disqualification from the entire tournament.
 4. Any modification from the ruleset will be announced. Players must be active on the tournament's discord server in the case of these modifications.
 
-### Mappool Structure
+### Mappool structure
 
 1. There will be separate mappools for each stage. Each mappool contains the following mod brackets: NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker. There will be no Tiebreaker for Qualifiers.
   - DoubleTime can be played as Nightcore if all players in the lobby agree to it.
@@ -303,14 +303,14 @@ This competition has come to an end and resulted in the following podium:
   - Finals (B013) - 6 NM, 2 HD/HR/DT, 3 FM, 1 TB
   - Grand Finals (B013) - 6 NM, 2 HD/HR/DT, 3 FM, 1 TB
 
-### Qualifiers Regulations
+### Qualifiers regulations
 
 1. Players must sign up to one of the qualifier lobbies provided by the hosts. Instructions will be announced after the Qualifiers mappool showcase. Players may request a special lobby if needed, as long as a referee is available at the requested time. A player that doesn't pick a time slot before Thursday 23:59 will be disqualified.
 2. There will be no warmups for all qualifiers lobbies. The mappool will be played twice during a lobby, and will be played in the following order: NMI, NM2, HDI, HRI ,DTI, FMI. A 5-minute break will be offered between the first and second run of the mappool, which can be skipped if all players in the lobby are ready. A player may skip certain maps during their second run if they so desire.
 3. The player's highest score for each map will be used for seeding. Players will be ordered by overall rank, which is computed by taking the average of their rankings on each map. In case of a tie, the sum of the top scores of the tied players are taken into account instead. Sharing of scores before the results showcase is discouraged.
 4. The number of players that will advance to the next stage will depend on the total number of participants. The Group Stage will be anticipated if there are at least 24 registered players.
 
-### Group Stage Regulations
+### Group stage regulations
 
 1. Players will be divided into 8 groups of 3 to 4 players, which will be randomly determined through the live drawings after the Qualifier results. Each group will contain one player from each seed category: Top, High, Low, and Unseed. All players from each group will face each other.
 2. The top 2 players of each group will move on to the Knockout Stages. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
@@ -319,7 +319,7 @@ This competition has come to an end and resulted in the following podium:
   - Most beatmaps won.
   - Winner of the match played previously between the tied teams.
 
-### Match Regulations
+### Match regulations
 
 1. Each player is allowed (but not required) to have a warm-up with length below 2:50. Players may request to use DoubleTime if the map length is slightly above the restriction. The players must give the map link to their referee 30 minutes before their match. Otherwise, the player's warm-up is skipped.
 2. A referee will create a private multiplayer lobby 15 minutes in advance. They will be notifying and sending invites to players near match time. The match can be postponed up to 10 minutes.

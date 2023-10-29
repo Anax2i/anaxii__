@@ -4,11 +4,11 @@ tags:
   - PHNS 2021
 ---
 
-# osu! Philippines Nationals 2021 - (osu!mania 4K/7K)
+# osu! Philippines Nationals 2021 - osu!standard
 
 ![PHNS2021 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2021 (osu!standard)** (***PHNS 2021***) is a one-on-one, osu!standard tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2021 (osu!standard)** (***PHNS 2021***) was a one-on-one, osu!standard tournament made for osu! players based in the Philippines or of Filipino Heritage.
 
 ## Tournament schedule
 
@@ -21,4 +21,36 @@ The **osu! Philippines Nationals 2021 (osu!standard)** (***PHNS 2021***) is a on
 | Quarterfinals | 2021-10-15/2021-10-17 |
 | Semifinals | 2021-10-22/2021-07-24 |
 | Finals | 2021-10-29/2021-10-31 |
-| Grand Finals | 2021-11-05/2021-11-07 |
+| Grand finals | 2021-11-05/2021-11-07 |
+
+## Prizes
+
+*To be added*
+
+## Organisation
+
+*To be added*
+
+## Links
+
+*To be added*
+
+## Participants
+
+*To be added*
+
+## Podium
+
+*To be added*
+
+## Mappools
+
+*To be added*
+
+## Match results
+
+*To be added*
+
+## Rulesets
+
+*To be added*
