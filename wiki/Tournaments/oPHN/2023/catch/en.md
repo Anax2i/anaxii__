@@ -4,7 +4,7 @@ tags:
   - PHNC 2023
 ---
 
-# osu! Philippines Nationals 2023 - osu!mania 4K/7K
+# osu! Philippines Nationals 2023 - osu!catch
 
 ![PHNC2023 banner](img/banner.png)
 
