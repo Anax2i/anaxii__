@@ -32,7 +32,7 @@ The **osu! Philippines Nationals 2022 (osu!catch)** (***PHNC 2022***) was a one-
 
 ## Organisation
 
-The osu! Philippines Nationals 2023 (osu!catch) was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!catch was ran by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

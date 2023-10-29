@@ -32,7 +32,7 @@ The **osu! Philippines Nationals 2022 (osu!taiko)** (***PHNT 2022***) was a one-
 
 ## Organisation
 
-The osu! Philippines Nationals 2022 (osu!taiko) was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!taiko was ran by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

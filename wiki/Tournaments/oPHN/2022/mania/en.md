@@ -32,7 +32,7 @@ The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) was 
 
 ## Organisation
 
-The osu! Philippines Nationals 2022 (osu!mania) was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!mania was ran by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

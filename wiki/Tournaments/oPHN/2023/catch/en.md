@@ -30,7 +30,7 @@ The **osu! Philippines Nationals 2023 (osu!catch)** (***PHNC 2023***) is a one-o
 
 ## Organisation
 
-The osu! Philippines Nationals 2023 - osu!taiko is ran by various community members.
+The osu! Philippines Nationals 2023 - osu!catch is ran by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
