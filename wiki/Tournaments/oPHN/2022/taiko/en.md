@@ -290,11 +290,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool structure
 
-1. There will be separate mappools for each stage. Each mappool contains the following mod brackets: NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker. There will be no Tiebreaker for Qualifiers.
+- There will be separate mappools for each stage. Each mappool contains the following mod brackets: NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker. There will be no Tiebreaker for Qualifiers.
   - DoubleTime can be played as Nightcore if all players in the lobby agree to it.
   - ForceMod will be played either with Hidden, HardRock, or Hidden + HardRock.
   - Tiebreaker will be played with NoMod and will be only played in case of a tie.
-2. The win condition and mappool size per stage are as follows:
+- The win condition and mappool size per stage are as follows:
 
 | Round stage | Best of | NM | HD | HR | DT | FM | TB |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -315,8 +315,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage regulations
 
-1. Players will be divided into 8 groups of 3 to 4 players, which will be randomly determined through the live drawings after the Qualifier results. Each group will contain one player from each seed category: Top, High, Low, and Unseed. All players from each group will face each other.
-2. The top 2 players of each group will move on to the Knockout Stages. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+- Players will be divided into 8 groups of 3 to 4 players, which will be randomly determined through the live drawings after the Qualifier results. Each group will contain one player from each seed category: Top, High, Low, and Unseed. All players from each group will face each other.
+- The top 2 players of each group will move on to the Knockout Stages. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
   - Most matches won.
   - Have a higher number of beatmaps won than number of beatmaps defeated.
   - Most beatmaps won.

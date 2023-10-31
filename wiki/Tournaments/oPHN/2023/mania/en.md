@@ -447,7 +447,6 @@ This competition has come to an end and resulted in the following podium:
 | **Dyei** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: TigerWasTaken | *win by default* |
 | bojii the rock ::{ flag=PH }:: | 0 | **5** | ::{ flag=PH }:: **Axfaerie** | *win by default* |
 
-
 ### 7K
 
 #### Grand finals

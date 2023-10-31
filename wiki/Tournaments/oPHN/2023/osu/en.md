@@ -322,7 +322,6 @@ This competition has come to an end and resulted in the following podium:
 | **NathanRam1918** ::{ flag=PH }:: | **7** | 4 | ::{ flag=PH }:: Xyloz | [#1](https://osu.ppy.sh/community/matches/106934168) |
 | -Peachii ::{ flag=PH }:: | 1 | **7** | ::{ flag=PH }:: **Xyloz** | [#1](https://osu.ppy.sh/community/matches/106932642) |
 
-
 ### Finals
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -456,7 +455,6 @@ Note: The star ratings listed below are the range of  star ratings per round.
 - A reschedule is forced when the player does not make his lobby on time.
 - In case of disconnection (while the map was being played), the player may replay the missed map **one** time later on.
 - The top 32 players by **average map rank** will proceed to RO32.
-
 
 ### Match Procedure
 
