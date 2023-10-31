@@ -80,8 +80,8 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 - Players are seeded into a double-elimination bracket, which would consist of the top 16 players of the qualifier round.
 - Mappool Sizes and Best of Format for each round are given as follows:
 
-| Round stage | Best of | NM | HD | HR | DT | T |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: 
+| Round stage | Best of | NM | HD | HR | DT | TB |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | Round of 16 | 9 | 4 | 2 | 2 | 2 | 1 |
 | Quarterfinals | 9 | 4 | 2 | 2 | 2 | 1 |
 | Semifinals | 11 | 4 | 3 | 3 | 3 | 1 |

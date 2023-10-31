@@ -301,7 +301,7 @@ This competition has come to an end and resulted in the following podium:
   - Tiebreaker will be played with NoMod and will be only played in case of a tie.
 2. The win condition and mappool size per stage are as follows:
 
-| Round stage | Best of | NM | HD | HR | DT | FM | T |
+| Round stage | Best of | NM | HD | HR | DT | FM | TB |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Qualifiers | - | 3 | 1 | 1 | 1 | 1 | - |
 | Round of 16 | 9 | 4 | 2 | 2 | 2 | 3 | 1 |

@@ -272,7 +272,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Haru Nemuri - narashite (Penguinosity) [Whirl]](https://osu.ppy.sh/beatmapsets/1254902#mania/2608039)
 - SV
   1. [BilliumMoto x Silentroom - Sense (Orca-) [Paturages's Hard]](https://osu.ppy.sh/beatmapsets/1631469#mania/3359637)
-  2. [Kim Petras - <demons> (Arccat) [<malevolent>]](https://osu.ppy.sh/beatmapsets/1642436#mania/3352627)
+  2. [Kim Petras - \<demons\> (Arccat) [\<malevolent\>]](https://osu.ppy.sh/beatmapsets/1642436#mania/3352627)
 - Tiebreaker
   1. **[Camellia - Body F10ating in the Zero Gravity Space (Eclipse-) [Celestial Descent]](https://osu.ppy.sh/beatmapsets/1336073#mania/2767905)**
 
@@ -757,14 +757,15 @@ Players will be instructed to do a !roll command by the referee that is overseei
 
 After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
 
-1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
+- One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - The winning player moves onto the next match.
   - During the Group Stage, the losing player will be directed by the stipulations outlined in Section 1.5 of this ruleset.
-2. Both players are at match point at the same time.
+- Both players are at match point at the same time.
   - Both players will play the song designated as the tiebreaker.
   - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 
 Players will have 2 minutes to pick a map and 2 minutes to get ready. Players also allowed to pick their opponent's protect.
+
 - In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using !roll X, where X is the number of available maps to pick in the mappool.
 - Each player is entitled to an optional (not required to be used) time out of two minutes when its their turn to pick. This time out period will only be allowed once per player per match.
 - In case the scores are tied on a pick, the pick is considered nullified and must be played again until a scores are not tied at the end of the chart.

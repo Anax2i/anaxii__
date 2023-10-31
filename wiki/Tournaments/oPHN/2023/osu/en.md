@@ -431,13 +431,13 @@ Note: The star ratings listed below are the range of  star ratings per round.
 
 | Round stage | Best of | NM | HD | HR | DT | TB | Star rating |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Qualifiers | - | 4 | 2 | 2 | 2 | - | 5.0* - 6.6* |
-| RO32 | 9 | 5 | 3 | 3 | 3 | 1 | 4.8* - 5.95* |
-| RO16 | 9 | 5 | 3 | 3 | 3 | 1 | 5.0* - 6.3* |
-| Quarterfinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.2* - 6.6* |
-| Semifinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.5* - 6.8* |
-| Finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.8* - 7.1* | 
-| Grand finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.9* - 7.3* |
+| Qualifiers | - | 4 | 2 | 2 | 2 | - | 5.0*-6.6* |
+| Round of 32 | 9 | 5 | 3 | 3 | 3 | 1 | 4.8*-5.95* |
+| Round of 16 | 9 | 5 | 3 | 3 | 3 | 1 | 5.0*-6.3* |
+| Quarterfinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.2*-6.6* |
+| Semifinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.5*-6.8* |
+| Finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.8*-7.1* | 
+| Grand finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.9*-7.3* |
 
 ### Tournament Rules
 
