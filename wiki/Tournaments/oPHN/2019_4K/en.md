@@ -425,10 +425,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 - Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
-  1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
+  - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
     - The winning player moves onto the next match.
     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
-  2. Both players are at match point at the same time.
+  - Both players are at match point at the same time.
     - Both players will play the song designated as the tiebreaker.
     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.

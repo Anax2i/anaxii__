@@ -462,7 +462,7 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \[KN\]Puddles ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **4Kenn** | [#1](https://osu.ppy.sh/community/matches/102123427) |
-| **Vulpsi** ::{ flag=PH }:: | **7** | 2 | :: { flag=PH }:: [KN]MysteryL | [#1](https://osu.ppy.sh/community/matches/102124331)
+| **Vulpsi** ::{ flag=PH }:: | **7** | 2 | :: { flag=PH }:: [KN]MysteryL | [#1](https://osu.ppy.sh/community/matches/102124331) |
 | Apol- ::{ flag=PH }:: | 4 | **7** | ::{ flag=PH }:: **Silicosis** | [#1](https://osu.ppy.sh/community/matches/102125135) |
 | **4Kenn** ::{ flag=PH }:: | **7** | 1 | ::{ flag=PH }:: Silicosis | [#1](https://osu.ppy.sh/community/matches/102153285) |
 
@@ -473,7 +473,7 @@ This competition has come to an end and resulted in the following podium:
 | arcwinolivirus ::{ flag=PH }:: | 5 | **7** | ::{ flag=PH }:: **Silicosis** | [#1](https://osu.ppy.sh/community/matches/101944328) |
 | **nathan on mania** ::{ flag=PH }:: | **7** | 2 | ::{ flag=PH }:: Axfaerie | [#1](https://osu.ppy.sh/community/matches/101946998) |
 | **4Kenn** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: \[KN\]CuB-03 | *win by default* |
-| **\[KN\]MysteryL** ::{ flag=PH }:: | **7** | 5 | ::{ flag=PH }:: Apol- | [#1](https://osu.ppy.sh/community/matches/101970977)
+| **\[KN\]MysteryL** ::{ flag=PH }:: | **7** | 5 | ::{ flag=PH }:: Apol- | [#1](https://osu.ppy.sh/community/matches/101970977) |
 | **Unitori-** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: gl_eo | *win by default* |
 | **Vulpsi** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: \[KN\]Puddles | [#1](https://osu.ppy.sh/community/matches/101973755) |
 | **4Kenn** ::{ flag=PH }:: | **7** | 1 | ::{ flag=PH }:: nathan on mania | [#1](https://osu.ppy.sh/community/matches/101973757) |

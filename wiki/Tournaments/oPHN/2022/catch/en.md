@@ -36,7 +36,7 @@ The osu! Philippines Nationals 2022 - osu!catch was ran by various community mem
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)  |
+| Host | ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
 | Mappool selector | ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006), ::{ flag=PH }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
 | Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) |
 | Designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/18789292) |
