@@ -166,26 +166,26 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - No Mod
-  1.  [SECONDWALL - Natsu no Owari (Hivie) [Rainy Summer]](https://osu.ppy.sh/beatmapsets/1404425#taiko/2896554)
-  2.  [Otsukisama Koukyoukyoku - ultima Thule (skolodojko) [2199's Oni]](https://osu.ppy.sh/beatmapsets/1692734#taiko/3498879)
-  3.  [II-L - LEVEL-DOWN (Fynbi) [ONI]](https://osu.ppy.sh/beatmapsets/2040759#taiko/4257442)
-  4.  [Eguchi Takahiro - Now, it's my turn (Drecksackblase) [Checkmate]](https://osu.ppy.sh/beatmapsets/1355421#taiko/2805326)
-  5.  [False Noise - Shiver (Cut Ver.) (Rycy) [Subzero]](https://osu.ppy.sh/beatmapsets/1507219#taiko/3087119)
+  1. [SECONDWALL - Natsu no Owari (Hivie) [Rainy Summer]](https://osu.ppy.sh/beatmapsets/1404425#taiko/2896554)
+  2. [Otsukisama Koukyoukyoku - ultima Thule (skolodojko) [2199's Oni]](https://osu.ppy.sh/beatmapsets/1692734#taiko/3498879)
+  3. [II-L - LEVEL-DOWN (Fynbi) [ONI]](https://osu.ppy.sh/beatmapsets/2040759#taiko/4257442)
+  4. [Eguchi Takahiro - Now, it's my turn (Drecksackblase) [Checkmate]](https://osu.ppy.sh/beatmapsets/1355421#taiko/2805326)
+  5. [False Noise - Shiver (Cut Ver.) (Rycy) [Subzero]](https://osu.ppy.sh/beatmapsets/1507219#taiko/3087119)
 - Hidden
-  1.  [Slax - Sugar Loli (ler1211) [Oni]](https://osu.ppy.sh/beatmapsets/1634301#taiko/3335629)
-  2.  [RiraN - Lose Control (Jonarwhal) [Collab Oni]](https://osu.ppy.sh/beatmapsets/1963693#taiko/4070009)
+  1. [Slax - Sugar Loli (ler1211) [Oni]](https://osu.ppy.sh/beatmapsets/1634301#taiko/3335629)
+  2. [RiraN - Lose Control (Jonarwhal) [Collab Oni]](https://osu.ppy.sh/beatmapsets/1963693#taiko/4070009)
 - Hard Rock
-  1.  [Dz'Xa - Izumi 7983 (Cut Ver.) ([Zeth]) [ulko's Oni]](https://osu.ppy.sh/beatmapsets/1884874#taiko/3997507)
-  2.  [Ardolf - Eternally Onward (Fynbi) [Oni (PHNT ver.)]](https://osu.ppy.sh/beatmapsets/2028157#taiko/4257440)
+  1. [Dz'Xa - Izumi 7983 (Cut Ver.) ([Zeth]) [ulko's Oni]](https://osu.ppy.sh/beatmapsets/1884874#taiko/3997507)
+  2. [Ardolf - Eternally Onward (Fynbi) [Oni (PHNT ver.)]](https://osu.ppy.sh/beatmapsets/2028157#taiko/4257440)
 - Double Time        
-  1.  [Virtual Self - Key (Faputa) [Oni]](https://osu.ppy.sh/beatmapsets/1137185#taiko/2387047)
-  2.  [petit fleurs - mirafle** (taiko_ryuki) [Oni]](https://osu.ppy.sh/beatmapsets/1136679#taiko/2373847)
+  1. [Virtual Self - Key (Faputa) [Oni]](https://osu.ppy.sh/beatmapsets/1137185#taiko/2387047)
+  2. [petit fleurs - mirafle** (taiko_ryuki) [Oni]](https://osu.ppy.sh/beatmapsets/1136679#taiko/2373847)
 - Freemod
-  1.  [Thaehan - Overpowered (Yales) [Nao's Oni]](https://osu.ppy.sh/beatmapsets/877935#taiko/1840607)
-  2.  [Yooh - Heracles (Ryu Sei) [Oni]](https://osu.ppy.sh/beatmapsets/1579979#taiko/3226222)
-  3.  [Zekk - Freefall (Ph0eNiiXZ) [Oni]](https://osu.ppy.sh/beatmapsets/1417612#taiko/2925051)
+  1. [Thaehan - Overpowered (Yales) [Nao's Oni]](https://osu.ppy.sh/beatmapsets/877935#taiko/1840607)
+  2. [Yooh - Heracles (Ryu Sei) [Oni]](https://osu.ppy.sh/beatmapsets/1579979#taiko/3226222)
+  3. [Zekk - Freefall (Ph0eNiiXZ) [Oni]](https://osu.ppy.sh/beatmapsets/1417612#taiko/2925051)
 - Tiebreaker
-  1.  **[Camellia - Drenched in Air feat. Ninomae Ina'nis (MTNTWarz) [Saturation]](https://osu.ppy.sh/beatmapsets/2040563#taiko/4256776)**
+  1. **[Camellia - Drenched in Air feat. Ninomae Ina'nis (MTNTWarz) [Saturation]](https://osu.ppy.sh/beatmapsets/2040563#taiko/4256776)**
 
 ### Round of 16
 
