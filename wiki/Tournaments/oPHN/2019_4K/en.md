@@ -73,21 +73,21 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) was a 
 - FreeMod
   - [Outsider - Acquaintance (Skwid) [1.15x]](https://osu.ppy.sh/beatmapsets/758116#mania/1594748)
   - [LUZE - 3.14 (TT mix) (snoverpk) [Arcane Geometry]](https://osu.ppy.sh/beatmapsets/512580#mania/1089455)
-  - [keyc - blue traces (Kamikaze) [[*>w<*]]](https://osu.ppy.sh/beatmaps/1783808)
-  - [-45 - Bloody Malie (-Rem-) [Gore]](https://osu.ppy.sh/beatmaps/1715086)
+  - keyc - blue traces (Kamikaze) \[[*>w<*]\]
+  - -45 - Bloody Malie (-Rem-) [Gore]
   - [Frums - Pictured as Perfect (qqqant) [i have no idea who i used to be]](https://osu.ppy.sh/beatmapsets/981508#mania/2054126)
   - [Jomekka - Eighto (Wh1teh) [k]](https://osu.ppy.sh/beatmapsets/584698#mania/1237015)
   - [Fearofdark - Polaris (Guilhermeziat) [Expert]](https://osu.ppy.sh/beatmapsets/463927#mania/993393)
   - [KikuoHana - Hibi Darake No Me (Gekido-) [Stabbing]](https://osu.ppy.sh/beatmapsets/748212#mania/1576294)
-  - [Street Sects - And I Grew into Ribbons (Pope Gadget) [Drag]](https://osu.ppy.sh/beatmaps/1097269)
+  - Street Sects - And I Grew into Ribbons (Pope Gadget) [Drag]
   - [xi - Bad Elixir ([Crz]Crysarlene) [Merciless Judgement (nerfed)]](https://osu.ppy.sh/beatmapsets/953656#mania/1991186)
   - [Kommisar - Turkey Turkey (Gekido-) [LN Master]](https://osu.ppy.sh/beatmapsets/852916#mania/1782630)
-  - [Helix6 - No. 6 ([Crz]Crysarlene) [X]](https://osu.ppy.sh/beatmaps/1843488)
+  - Helix6 - No. 6 ([Crz]Crysarlene) [X]
   - [Nanahoshi Kangengakudan - Talent Shredder (juankristal) [Timing Hell]](https://osu.ppy.sh/beatmapsets/853532#mania/1783836)
   - [((LMB)) - Buntan ~Falling in "B" mix~ (Tidek) [%UN%D3%R1%0Y]](https://osu.ppy.sh/beatmapsets/569225#mania/1206728)
   - [sakuraburst - deconstructing nature (Vortex-) [destruction]](https://osu.ppy.sh/beatmapsets/619106#mania/1305926)
 - Tiebreaker
-  - **[Rawtekk - Amber's Love Was Like A Marble (Billain Remix) (Evening) [corrupted]](https://osu.ppy.sh/beatmaps/1770224)**
+  - **Rawtekk - Amber's Love Was Like A Marble (Billain Remix) (Evening) [corrupted]**
 
 ### Finals week 1
 
