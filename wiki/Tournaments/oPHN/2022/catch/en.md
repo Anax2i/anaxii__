@@ -192,6 +192,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Wakeshima Kanon - Tsukinami (Jemzuu) [Crowley's Overdose]](https://osu.ppy.sh/beatmapsets/1292832#fruits/2685910)
 
 ### Qualifiers
+
 - Stages
   1. (NM1) [REDALiCE vs. Kobaryo - REKKA RESONANCE (Jemzuu) [RUSTYY'S OVERDOSE]](https://osu.ppy.sh/beatmapsets/1530133#fruits/3273862)
   2. (HD1) [MYUKKE. - The 89's Momentum (Spectator) [Overdose]](https://osu.ppy.sh/beatmapsets/1340492#fruits/2777008)
@@ -258,6 +259,7 @@ This competition has come to an end and resulted in the following podium:
 ## Ruleset
 
 ### General rules
+
 - ScoreV2 will be used for this tournament.
 - Players are allowed to join the 10 minutes before the scheduled match.
 - Players cannot nullify a beatmap under any circumstances
