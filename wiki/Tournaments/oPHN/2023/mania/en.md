@@ -522,6 +522,7 @@ Staff Members who are **[NOT Referees, Mappool Selectors, Hosts, nor are part of
 #### Round Overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
+
 - Qualification Stage: 6 song mappool, no winning condition, no tiebreaker song
 - Round of 32, Round of 16: 12 song mappool, best of 9 (first to 5), one tiebreaker song
 - Quarterfinals: 14 song mappool, best of 11 (first to 6), one tiebreaker song
@@ -558,11 +559,13 @@ Regardless of the number of entrants and eliminations, the qualification process
 ### Tournament Play
 
 #### Match Protocol
+
 Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 
 Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the tournament staff before **Wednesday at 23:59 UTC+8 (or Philippine Standard Time)** in that particular week when your match takes place.
 
 **It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner.**
+
 - Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
 - For maximal accountability on the PHNM2023 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
 - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
@@ -570,14 +573,17 @@ Reschedules will only be considered if both players agree to a time, this needs 
 - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in PHNM2023 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 
 **It is our right as tournament staff to expect that you will arrive for your matches before your expected time.**
+
 - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the PHNM2023 staff.
 - In the extreme circumstance where both players did not show up, the player with the higher group stage seed in the match-up will advance automatically. In the Post-Qualification stage the player with the higher qualifier seed in the match-up will advance automatically
 
 **It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament.**
+
 - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
 - If you dislike something, you are allowed to state your concerns -- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 
 **It is our right as the PHNM2023 staff to reprimand users for intolerable behavior.**
+
 - PHNM2023 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
 - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
@@ -606,6 +612,7 @@ Players are to protect one (1) map from being banned within the map pool that th
 Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning (higher) roll picks the first protected map, the losing (lower) roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
 
 After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
+
 - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - The winning player moves onto the next match.
   - If the match was in the winner's bracket or during the first round, the losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
@@ -614,6 +621,7 @@ After the bans and rolls have concluded, the player with the winning roll instru
   - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 
 Players will have 2 minutes to pick a map and 2 minutes to get ready. Players also allowed to pick their opponent's protect.
+
 - In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using !roll X, where X is the number of available maps to pick in the mappool.
 - Each player is entitled to an optional (not required to be used) time out of two minutes when its their turn to pick. This time out period will only be allowed once per player per match.
 
