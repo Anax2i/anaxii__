@@ -486,7 +486,7 @@ This competition has come to an end and resulted in the following podium:
 | TENSHIGamer69 ::{ flag=PH }:: | 3 | **6** | ::{ flag=PH }:: **Axfaerie** | [#1](https://osu.ppy.sh/community/matches/101702405) |
 | \[KN\]Melancholy ::{ flag=PH }:: | 1 | **6** | ::{ flag=PH }:: **Silicosis** | [#1](https://osu.ppy.sh/community/matches/101754349) |
 | **gl_eo** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: betanrobot | *win by default* |
-| **\[KN\]MysteryL** ::{ flag=PH }:: | **6** | 4 | ::{ flag=PH }:: nathan on mania | [#1](https://osu.ppy.sh/community/matches/101762285)
+| **\[KN\]MysteryL** ::{ flag=PH }:: | **6** | 4 | ::{ flag=PH }:: nathan on mania | [#1](https://osu.ppy.sh/community/matches/101762285) |
 | **Apol-** ::{ flag=PH }:: | **6** | 5 | ::{ flag=PH }:: 4Kenn | [#1](https://osu.ppy.sh/community/matches/101784500) |
 | **Vulpsi** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: Unitori- | *win by default* |
 | \[KN\]Lordieee ::{ flag=PH }:: | 1 | **6** | ::{ flag=PH }:: **\[KN\]CuB-03** | [#1](https://osu.ppy.sh/community/matches/101787434) |
@@ -497,7 +497,7 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **4Kenn** ::{ flag=PH }:: | **5** | 2 | ::{ flag=PH }:: betanrobot | [#1](https://osu.ppy.sh/community/matches/101562990) |
-| **\[KN\]MysteryL** ::{ flag=PH }:: | **5** | 3 | ::{ flag=PH }:: \[KN\]Melancholy | [#1](https://osu.ppy.sh/community/matches/101563828)
+| **\[KN\]MysteryL** ::{ flag=PH }:: | **5** | 3 | ::{ flag=PH }:: \[KN\]Melancholy | [#1](https://osu.ppy.sh/community/matches/101563828) |
 | **Vulpsi** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: \[KN\]Lordieee | [#1](https://osu.ppy.sh/community/matches/101566578) |
 | Silicosis ::{ flag=PH }:: | 4 | **5** | ::{ flag=PH }:: **nathan on mania** | [#1](https://osu.ppy.sh/community/matches/101567743) |
 | **arcwinolivirus** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: TENSHIGamer69 | [#1](https://osu.ppy.sh/community/matches/101595023) |
@@ -522,7 +522,7 @@ This competition has come to an end and resulted in the following podium:
 | **\[KN\]Frossno** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: Argefangirl | [#1](https://osu.ppy.sh/community/matches/101205513) |
 | **\[KN\]CuB-03** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: Axfaerie | [#1](https://osu.ppy.sh/community/matches/101206582) |
 | \[KN\]Dyei ::{ flag=PH }:: | 3 | **4** | ::{ flag=PH }:: **Sachianii** | [#1](https://osu.ppy.sh/community/matches/101207543) |
-| **\[KN\]MysteryL** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: nathan on mania | [#1](https://osu.ppy.sh/community/matches/101212150)
+| **\[KN\]MysteryL** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: nathan on mania | [#1](https://osu.ppy.sh/community/matches/101212150) |
 | Steeeven ::{ flag=PH }:: | 2 | **4** | ::{ flag=PH }:: **\[KN\]Lordieee** | [#1](https://osu.ppy.sh/community/matches/101213494) |
 | **\[KN\]Tenshi** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: \[KN\]Cirno | [#1](https://osu.ppy.sh/community/matches/101239945) |
 | **\[KN\]Melancholy** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: DaMeMeThEiFxD | [#1](https://osu.ppy.sh/community/matches/101369405) |
@@ -637,11 +637,11 @@ Players who currently have (or had at some point since Account Creation) the Phi
 #### Round overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
- - Qualification Stage: 6 song mappool, no winning condition, no tiebreaker song
- - Group Stage: 10 song mappool, best of 7 (first to 4), one tiebreaker song
- - Round of 16: 12 song mappool, best of 9 (first to 5), one tiebreaker song
- - Quarterfinals: 14 song mappool, best of 11 (first to 6), one tiebreaker song
- - Semifinals, Finals Weeks 1 and 2: 16 song mappool, best of 13 (first to 7), one tiebreaker song
+- Qualification Stage: 6 song mappool, no winning condition, no tiebreaker song
+- Group Stage: 10 song mappool, best of 7 (first to 4), one tiebreaker song
+- Round of 16: 12 song mappool, best of 9 (first to 5), one tiebreaker song
+- Quarterfinals: 14 song mappool, best of 11 (first to 6), one tiebreaker song
+- Semifinals, Finals Weeks 1 and 2: 16 song mappool, best of 13 (first to 7), one tiebreaker song
 
 The tournament is played 1 player versus 1 player
 
@@ -668,16 +668,16 @@ Players are discouraged from disclosing, streaming, or discussing their qualifie
 After the Qualification stage, the remaining players will be divided into 4 different pots based on their qualification seed. These pots will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group through a live draw.
 
 The number of players in each pot are as follows:
- - For the 4K Division, there will be 8 players per pot, corresponding to 8 groups in total.
- - For the 7K Division, there will be 6 players per pot, corresponding to 6 groups in total.
+- For the 4K Division, there will be 8 players per pot, corresponding to 8 groups in total.
+- For the 7K Division, there will be 6 players per pot, corresponding to 6 groups in total.
 
 The players will then be subject to two rounds of matches. In the first round, the Group Stage will have 2 matches per group:
- - The first match is a match between the Top Seed and High Seed. The winner of this match will advance to the Bracket Stage as the Group Winner. The loser of this match will play in the second round of Group Stage.
- - The second match is a match between the Bottom seed and Low seed. The winner of this match will get to play in the second round of Group Stage. The loser of this match will be eliminated from the tournament.
+- The first match is a match between the Top Seed and High Seed. The winner of this match will advance to the Bracket Stage as the Group Winner. The loser of this match will play in the second round of Group Stage.
+- The second match is a match between the Bottom seed and Low seed. The winner of this match will get to play in the second round of Group Stage. The loser of this match will be eliminated from the tournament.
 
 In the second round of Group Stage, the loser of the first match and the winner of the second match will face each other. The winner of this match will advance to the Bracket Stage as the Group Runner-up. The loser will face either of the following:
- - If the match is in the 4K Division, the player is eliminated.
- - If the match is in the 7K Division, the player is counted as the 3rd placer of the group.
+- If the match is in the 4K Division, the player is eliminated.
+- If the match is in the 7K Division, the player is counted as the 3rd placer of the group.
 
 In the osu!mania 7K Division, the best four 3rd placers will be advancing to the Bracket Stage in addition to the slots as explained earlier.
 
@@ -704,24 +704,24 @@ Your matches will be listed in schedules. It is your duty as a player to properl
 Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+8 (or Philippine Standard Time) in that particular week when your match takes place.
 
 It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner.
- - Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
- - For maximal accountability on the PHNM2022 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
- - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
- - Take care of any responsibilities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
- - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in PHNM2022 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
+- Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
+- For maximal accountability on the PHNM2022 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
+- If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
+- Take care of any responsibilities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
+- If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in PHNM2022 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 
 It is our right as tournament staff to expect that you will arrive for your matches before your expected time.
- - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the PHNM2022 staff.
- - In the extreme circumstance where both players did not show up, the player with the higher group stage seed in the match-up will advance automatically. In the Group Stage, the player with the higher qualifier seed in the match-up will advance automatically
- - This clause also includes ensuring that the players are using an optimal set up for play, or at least is prepared to play out the entire match without issues. Issues not covered by this ruleset will be treated on a case-by-case basis by the Hosts. Actions taken include but are not limited to: nullification of a pick should an issue arise within the first 25% of the chart's drain time or first 30 seconds, whichever comes first, emergency reschedule approval, player disqualification, and the like. As a general rule-of-thumb: lag and/or hardware issues are not an excuse for a match to be nullified.
+- Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the PHNM2022 staff.
+- In the extreme circumstance where both players did not show up, the player with the higher group stage seed in the match-up will advance automatically. In the Group Stage, the player with the higher qualifier seed in the match-up will advance automatically
+- This clause also includes ensuring that the players are using an optimal set up for play, or at least is prepared to play out the entire match without issues. Issues not covered by this ruleset will be treated on a case-by-case basis by the Hosts. Actions taken include but are not limited to: nullification of a pick should an issue arise within the first 25% of the chart's drain time or first 30 seconds, whichever comes first, emergency reschedule approval, player disqualification, and the like. As a general rule-of-thumb: lag and/or hardware issues are not an excuse for a match to be nullified.
 
 It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament.
- - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
- - If you dislike something, you are allowed to state your concerns -- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
+- You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
+- If you dislike something, you are allowed to state your concerns-- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 
 It is our right as the PHNM2022 staff to reprimand users for intolerable behavior.
- - PHNM2022 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
- - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
+- PHNM2022 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
+- Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up songs
 

@@ -295,13 +295,16 @@ This competition has come to an end and resulted in the following podium:
   - ForceMod will be played either with Hidden, HardRock, or Hidden + HardRock.
   - Tiebreaker will be played with NoMod and will be only played in case of a tie.
 2. The win condition and mappool size per stage are as follows:
-  - Qualifiers (Best Score) - 2 NM, 1 HD/HR/DT, 1 FM
-  - Group stage (B07) - 3 NM, 2 HD/HR/DT, 2 FM, 1 TB
-  - Round of 16 (B09) - 4 NM, 2 HD/HR/DT, 3 FM, 1 TB
-  - Quarterfinals (BOII) - 5 NM, 2 HD/HR/DT, 3 FM, 1 TB
-  - Semifinals (B013) - 6 NM, 2 HD/HR/DT, 3 FM, 1 TB
-  - Finals (B013) - 6 NM, 2 HD/HR/DT, 3 FM, 1 TB
-  - Grand Finals (B013) - 6 NM, 2 HD/HR/DT, 3 FM, 1 TB
+
+| Round stage | Best of | NM | HD | HR | DT | FM | TB |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Qualifiers | - | 2 | 1 | 1 | 1 | 1 | - |
+| Group stage | 7 | 3 | 2 | 2 | 2 | 2 | 1 |
+| Round of 16 | 9 | 4 | 2 | 2 | 2 | 3 | 1 |
+| Quarterfinals | 11 | 5 | 2 | 2 | 2 | 3 | 1 |
+| Semifinals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
+| Finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
+| Grand finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
 
 ### Qualifiers regulations
 
