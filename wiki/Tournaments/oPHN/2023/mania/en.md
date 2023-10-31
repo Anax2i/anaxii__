@@ -517,7 +517,8 @@ As the tournament name implies, this is an osu!mania tournament set up as a nati
 
 Players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament.
 
-Staff Members who are **[NOT Referees, Mappool Selectors, Hosts, nor are part of any managing role](https://osu.ppy.sh/wiki/en/Tournaments/Official_support#staff)** are permitted to join the tournament.
+Staff Members who are **[NOT Referees, Mappool Selectors, Hosts, nor are part of any managing role](/wiki/Tournaments/Official_support#staff)** are permitted to join the tournament.
+
 #### Round Overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:

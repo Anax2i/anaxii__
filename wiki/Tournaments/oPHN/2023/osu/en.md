@@ -37,7 +37,7 @@ The osu! Philippines Nationals 2023 (osu!standard) was ran by various community 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [EnIite](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927)  |
+| Host | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [EnIite](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | Mappool selector | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667), ::{ flag=PH }:: [konawiki](https://osu.ppy.sh/users/4003979), ::{ flag=PH }:: [Dylann](https://osu.ppy.sh/users/14687489), ::{ flag=PH }:: [iFinixe](https://osu.ppy.sh/users/10501608), ::{ flag=PH }:: [samosita](https://osu.ppy.sh/users/6090289), ::{ flag=PH }:: [Onegai](https://osu.ppy.sh/users/11849100), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=PH }:: [Cohue](https://osu.ppy.sh/users/12538598) |
 | Custom mapper | ::{ flag=PH }:: [Anastaxia](https://osu.ppy.sh/users/5375302), ::{ flag=PH }:: [Rayne Sylvania](https://osu.ppy.sh/users/4573205), ::{ flag=PH }:: [CodeLBG](https://osu.ppy.sh/users/22518117) |
 | Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-[Pochi]-](https://osu.ppy.sh/users/18293050), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) |
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
   3. [NeLiME - CODENAME : GAMMA (Rayne Sylvania) [RS Nation]](https://osu.ppy.sh/beatmapsets/1927898#osu/3981377)
   4. [sasakure.UK - TONDEMO-WONDERZ feat. echo (flake) [Showtime!]](https://osu.ppy.sh/beatmapsets/1541081#osu/3522486)
 - Hard Rock
-  1. [kessoku band - Seishun Complex (_kotachi_) [POISONOUS DARKNESS]](https://osu.ppy.sh/beatmapsets/1863866#osu/3832960)
+  1. [kessoku band - Seishun Complex (\_kotachi\_) [POISONOUS DARKNESS]](https://osu.ppy.sh/beatmapsets/1863866#osu/3832960)
   2. [2 Guys N the Parque - S.I.M.P. (Squirrels In My Pants) (Kingling) [8 Guys N the Collab]](https://osu.ppy.sh/beatmapsets/1185064#osu/2635559)
   3. [BEMANI Sound Team "Sota Fujimori" - OZONE (pip) [bongo's TRIOXYGEN EXTRA]](https://osu.ppy.sh/beatmapsets/1774242#osu/3659772)
   4. [Kushper - MENDENIKANOID (Down) [Another]](https://osu.ppy.sh/beatmapsets/1828651#osu/3764232)
@@ -418,7 +418,7 @@ This competition has come to an end and resulted in the following podium:
 - Players are required to join the [Discord server](https://discord.gg/jn7E2gCnpb).
 - All players will undergo screening after the closing of registrations.
 
-### Tournament format	
+### Tournament format
 
 The tournament format was 1v1, double-elimination tournament. Players play through qualifiers, and the top 32 players will proceed to the Round of 32. 
 
@@ -435,7 +435,7 @@ Note: The star ratings listed below are the range of  star ratings per round.
 | Round of 16 | 9 | 5 | 3 | 3 | 3 | 1 | 5.0*-6.3* |
 | Quarterfinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.2*-6.6* |
 | Semifinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.5*-6.8* |
-| Finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.8*-7.1* | 
+| Finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.8*-7.1* |
 | Grand finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.9*-7.3* |
 
 ### Tournament Rules
