@@ -37,7 +37,7 @@ The osu! Philippines Nationals 2023 - osu!taiko was ran by various community mem
 | Host | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) |
 | Mappool selector | ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=TH }:: [Kappu](https://osu.ppy.sh/users/9582525), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380) |
 | Custom mapper | ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=TH }:: [Kappu](https://osu.ppy.sh/users/9582525), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035), ::{ flag=US }:: [Yujki](https://osu.ppy.sh/users/14987094), ::{ flag=US }:: [beaw](https://osu.ppy.sh/users/6777358), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=IT }:: [A-40](https://osu.ppy.sh/users/14510301) |
-Mappool tester | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=KR }:: [NaNaHiDa](https://osu.ppy.sh/users/30114023), ::{ flag=PH }:: [JoshEco4](https://osu.ppy.sh/users/18591473), ::{ flag=PH }:: [Fluorinedesu](https://osu.ppy.sh/users/26539515), ::{ flag=IT }:: [A-40](https://osu.ppy.sh/users/14510301) |
+| Mappool tester | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=KR }:: [NaNaHiDa](https://osu.ppy.sh/users/30114023), ::{ flag=PH }:: [JoshEco4](https://osu.ppy.sh/users/18591473), ::{ flag=PH }:: [Fluorinedesu](https://osu.ppy.sh/users/26539515), ::{ flag=IT }:: [A-40](https://osu.ppy.sh/users/14510301) |
 | Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Coequal](https://osu.ppy.sh/users/14167247), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [Fluorinedesu](https://osu.ppy.sh/users/26539515), ::{ flag=PH }:: [Shiori Shiomiya](https://osu.ppy.sh/users/11154860), ::{ flag=PH }:: [aaronigoo](https://osu.ppy.sh/users/25457711) |
 | Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Coequal](https://osu.ppy.sh/users/14167247), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) |
@@ -295,11 +295,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool structure
 
-1. There will be separate mappools for each stage. Each mappool contains the following mod brackets: NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker. There will be no Tiebreaker for Qualifiers.
+- There will be separate mappools for each stage. Each mappool contains the following mod brackets: NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker. There will be no Tiebreaker for Qualifiers.
   - DoubleTime can be played as Nightcore if all players in the lobby agree to it.
   - ForceMod will be played either with Hidden, HardRock, or Hidden + HardRock.
   - Tiebreaker will be played with NoMod and will be only played in case of a tie.
-2. The win condition and mappool size per stage are as follows:
+- The win condition and mappool size per stage are as follows:
 
 | Round stage | Best of | NM | HD | HR | DT | FM | TB |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -309,7 +309,6 @@ This competition has come to an end and resulted in the following podium:
 | Semifinals | 11 | 5 | 2 | 2 | 2 | 3 | 1 |
 | Finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
 | Grand finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
-
 
 ### Qualifiers regulations
 
@@ -326,7 +325,7 @@ This competition has come to an end and resulted in the following podium:
 4. Rolls will decide the ban and pick order for each player. The player with the highest roll bans second and picks first while the player with the lowest roll bans first and picks second. Each player must name their bans and picks within 2 minutes. Otherwise, their bans and picks will be decided by a roll.
 5. Players must be ready within 2 minutes after a map was picked. The map will be played once the players are ready or once the timer ends.
 6. Each player is allowed to have one 2-minute tactical timeout per match.
-7.  If a player disconnects during a map within 30 seconds, the player must reconnect within 5 minutes and the map may be replayed. This only applies once for each player. From there onwards, if the player disconnects again at any point of the match, the match will be played out normally until the player reconnects or forfeits the remaining maps.
+7. If a player disconnects during a map within 30 seconds, the player must reconnect within 5 minutes and the map may be replayed. This only applies once for each player. From there onwards, if the player disconnects again at any point of the match, the match will be played out normally until the player reconnects or forfeits the remaining maps.
 8. If two players tie on a map, the map is replayed. In case another tie occurs, the map is nullified and another map may be chosen by the same player who picked the nulled map.
 9. Scores in the match link are final, unless a player can give a legitimate screenshot (Shift + F12), a replay file, or a video clip. The score in the given proof must be clearly visible in order for it to be accepted.
 
