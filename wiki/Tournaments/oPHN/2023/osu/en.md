@@ -412,7 +412,7 @@ This competition has come to an end and resulted in the following podium:
 ### Registration
 
 - Only players with the Philippine flag on their profile are eligible to play. Players who don’t have the Philippine flag on their profile can present a proof of their Philippine Citizenship to the staff in order to be eligible to play.
-- Staff Members **who are NOT Referees, Mappool Selectors, Hosts, nor are part of any managing role** are permitted to join the tournament. [Read the FAQ](https://osu.ppy.sh/wiki/en/Tournaments/Official_support#faq) about what is considered as “staff” for more details.
+- Staff Members **who are NOT Referees, Mappool Selectors, Hosts, nor are part of any managing role** are permitted to join the tournament. [Read the FAQ](/wiki/Tournaments/Official_support#faq) about what is considered as “staff” for more details.
 - Players must be at least rank **#50,000** and up to join.
 - Registrations are done by completing this [Google form](https://docs.google.com/forms/d/13t0fmVrBkAq6bZgOQcuCjVx7LbhB_BqSxZ7tLgZbtG8/).
 - Players are required to join the [Discord server](https://discord.gg/jn7E2gCnpb).
