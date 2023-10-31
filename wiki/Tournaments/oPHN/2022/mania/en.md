@@ -21,7 +21,7 @@ The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) was 
 | Round of 16 | 2022-06-18/2022-06-19 |
 | Quarterfinals | 2022-06-25/2022-06-26 |
 | Semifinals | 2022-07-02/2022-07-03 |
-| Finals week 1| 2022-07-09/2022-07-10 |
+| Finals week 1 | 2022-07-09/2022-07-10 |
 | Finals week 2 | 2022-07-16/2022-07-17 |
 
 ## Prizes
@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 ### Grand finals
 
 - Rice
-  1. [Shiraishi - Moon Gate (lenpai) [Kawawa's [BMS wawather LV.22] @ 182]	](https://osu.ppy.sh/beatmapsets/1804630#mania/3700624)
+  1. [Shiraishi - Moon Gate (lenpai) [Kawawa's [BMS wawather LV.22] @ 182]](https://osu.ppy.sh/beatmapsets/1804630#mania/3700624)
   2. [Adust Rain - Seven Style (paulkappa) [Swirling]](https://osu.ppy.sh/beatmapsets/1803870#mania/3699078)
   3. [katagiri - Kamiari Algorithm (katagiri Bootleg) (arcwinolivirus) [7K 'Astronomical Fate' Arc (noLN edit)]](https://osu.ppy.sh/beatmapsets/1752189#mania/3585201)
   4. [SHK - Log-IN (lenpai) [7777's Jack]](https://osu.ppy.sh/beatmapsets/1804628#mania/3700622)
@@ -784,4 +784,4 @@ Situations with two player disconnections will be executed similarly to two miss
 
 Players that are caught abusing and/or bending the rules to their advantage is tantamount to disqualification from the tournament without appeal. More grave cases may also mean disqualification from participation from further osu! Philippines Tournaments.
 
-*Ruleset is adapted from [SOFT 6](https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6) and previous osu! PH tournaments.*
+*Ruleset is adapted from [SOFT 6](/wiki/Tournaments/SOFT/6) and previous osu! PH tournaments.*

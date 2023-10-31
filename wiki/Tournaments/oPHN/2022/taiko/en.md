@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Yron8](https://osu.ppy.sh/users/1537747)
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530)
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [AshelliaKawaii](https://osu.ppy.sh/users/15591179)
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Yron8](https://osu.ppy.sh/users/1537747) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [AshelliaKawaii](https://osu.ppy.sh/users/15591179) |
 
 ## Mappools
 
@@ -237,17 +237,17 @@ This competition has come to an end and resulted in the following podium:
 | --: | :-: | :-: | :-- | :-- |
 | **AshelliaKawaii** ::{ flag=PH }:: | **7** | 1 | ::{ flag=PH }:: Kerorosan123 | [#1](https://osu.ppy.sh/community/matches/103200217) |
 | **Krishel17** ::{ flag=PH }:: | **7** | 4 | ::{ flag=PH }:: -Birds- | [#1](https://osu.ppy.sh/community/matches/103203432) |
-| Krishel17 ::{ flag=PH }:: | 4 | **7** | ::{ flag=PH }:: **AshelliaKawaii** | [#1](https://osu.ppy.sh/mp/103225986) |
-| **Yron8** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: Kotaro | [#1](https://osu.ppy.sh/mp/103395655) |
+| Krishel17 ::{ flag=PH }:: | 4 | **7** | ::{ flag=PH }:: **AshelliaKawaii** | [#1](https://osu.ppy.sh/community/matches/103225986) |
+| **Yron8** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: Kotaro | [#1](https://osu.ppy.sh/community/matches/103395655) |
 
 ### Semifinals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Birds-** ::{ flag=PH }:: | **7** | 2 | ::{ flag=PH }:: Asa Kazato | [#1](https://osu.ppy.sh/mp/103010733) |
+| **-Birds-** ::{ flag=PH }:: | **7** | 2 | ::{ flag=PH }:: Asa Kazato | [#1](https://osu.ppy.sh/community/matches/103010733) |
 | **yoxavv** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: Faydee | *win by default* |
 | jecko2cute4u ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **Kerorosan123** | *win by default* |
-| **Euanofthedead** ::{ flag=PH }:: | **7** | 3 | ::{ flag=PH }:: Syntoxical | [#1](https://osu.ppy.sh/mp/103033795) |
+| **Euanofthedead** ::{ flag=PH }:: | **7** | 3 | ::{ flag=PH }:: Syntoxical | [#1](https://osu.ppy.sh/community/matches/103033795) |
 | Euanofthedead ::{ flag=PH }:: | 5 | **7** | ::{ flag=PH }:: **-Birds-** | [#1](https://osu.ppy.sh/community/matches/103037313) |
 | yoxavv ::{ flag=PH }:: | 6 | **7** | ::{ flag=PH }:: **Kerorosan123** | [#1](https://osu.ppy.sh/community/matches/103058203) |
 | **Kotaro** ::{ flag=PH }:: | **7** | 6 | ::{ flag=PH }:: AshelliaKawaii | [#1](https://osu.ppy.sh/community/matches/103060428) |
@@ -258,7 +258,7 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Fluorinedesu ::{ flag=PH }:: | 5 | **6** | ::{ flag=PH }:: **Syntoxical** | [#1](https://osu.ppy.sh/community/matches/102855910) |
-| Lawrence Angelo ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **Faydee** | [#1](https://osu.ppy.sh/mp/102856891) |
+| Lawrence Angelo ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **Faydee** | [#1](https://osu.ppy.sh/community/matches/102856891) |
 | Shiori Shiomiya ::{ flag=PH }:: | 2 | **6** | ::{ flag=PH }:: **Asa Kazato** | [#1](https://osu.ppy.sh/community/matches/102858605) |
 | yoxavv ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **Krishel17** | [#1](https://osu.ppy.sh/community/matches/102883852) |
 | Vaxy24 ::{ flag=PH }:: | 2 | **6** | ::{ flag=PH }:: **Kerorosan123** | [#1](https://osu.ppy.sh/community/matches/102884710) |

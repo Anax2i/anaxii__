@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 #### Finals
 
 - Rice
-  1. [Salmon Mikan - Juusangatsu Loop (gay short cat) [[4K] CrewK's <edit?> 1.3x]](https://osu.ppy.sh/beatmapsets/2011521#mania/4185821)
+  1. [Salmon Mikan - Juusangatsu Loop (gay short cat) [[4K] CrewK's \<edit?\> 1.3x]](https://osu.ppy.sh/beatmapsets/2011521#mania/4185821)
   2. [Yuuyu - endleSSStation (Frums Shuden Bootleg) (Elekton) [last train]](https://osu.ppy.sh/beatmapsets/653227#mania/1384837)
   3. [DJ SHARPNEL - Marunouchi surviver (lemonguy) [Challenge x1.3]](https://osu.ppy.sh/beatmapsets/1390755#mania/2872172)
   4. [Laur - Cat Paradise (TheFunk) [Nyacoark 1.05x (231bpm)]](https://osu.ppy.sh/beatmapsets/1942154#mania/4017450)
@@ -276,17 +276,17 @@ This competition has come to an end and resulted in the following podium:
   3. [Seiryu - AO-INFINITY (Toadette) [qod-muring 1.15x (220bpm) OD8.5]](https://osu.ppy.sh/beatmapsets/2020903#mania/4208658)
   4. [Mudkip - Littleroot Town 2014 (Toadette) [Hexagon's st_3 (Makiba edit)]](https://osu.ppy.sh/beatmapsets/2020895#mania/4208649)
   5. [Ayane Fukumi - You're Gonna Go Far, Kid (Nightcore Needs To Die Remix) (Evening) [EXTRA]](https://osu.ppy.sh/beatmapsets/1463757#mania/3006685)
-  6. [Gram - Nibelungen (Cut Ver.) (Toadette) [HehoMS <Azimuth> 0.95x]](https://osu.ppy.sh/beatmapsets/2020897#mania/4208651)
+  6. [Gram - Nibelungen (Cut Ver.) (Toadette) [HehoMS \<Azimuth\> 0.95x]](https://osu.ppy.sh/beatmapsets/2020897#mania/4208651)
   7. [HowToPlayLN - Chebyshev's Theorem (paulkappa) [Standard Deviation]](https://osu.ppy.sh/beatmapsets/2020117#mania/4206993)
 - Long Note
-  1. [ARForest - The Last Page (Hehoooh) [HehoLNs <Happy Ending!>]](https://osu.ppy.sh/beatmapsets/1697989#mania/3469120)
-  2. [EBIMAYO - GOODBOUNCE (Hehoooh) [HehoLNs <BOUNCING>]](https://osu.ppy.sh/beatmapsets/1720711#mania/3516557)
+  1. [ARForest - The Last Page (Hehoooh) [HehoLNs \<Happy Ending!\>]](https://osu.ppy.sh/beatmapsets/1697989#mania/3469120)
+  2. [EBIMAYO - GOODBOUNCE (Hehoooh) [HehoLNs \<BOUNCING\>]](https://osu.ppy.sh/beatmapsets/1720711#mania/3516557)
   3. [DJ'TEKINA//SOMETHING - Internet bitch (P*Light Remix) (Makiba) [(Cosplay) Desntiny - hard lvl 89 1.05x (185bpm) HP7 OD5]](https://osu.ppy.sh/beatmapsets/2020719#mania/4208246)
   4. [Camellia feat. Kagekiha gakusei - Lowermost revolt (Toadette) [7k - hard lvl 80]](https://osu.ppy.sh/beatmapsets/2020910#mania/4208676)
   5. [Sana - Kuusou Sekai to Omocha no Shinzou (Toadette) [7k - hard lvl 85]](https://osu.ppy.sh/beatmapsets/2020902#mania/4208657)
 - Hybrid
   1. [youman feat. GUMI - R.I.P. (dressurf) [-Fade-]](https://osu.ppy.sh/beatmapsets/1987719#mania/4129031)
-  2. [ginkiha - Shadow Castle (Toadette) [HehoMS + LNs <Tobii's Castle>]](https://osu.ppy.sh/beatmapsets/2020901#mania/4208656)
+  2. [ginkiha - Shadow Castle (Toadette) [HehoMS + LNs \<Tobii's Castle\>]](https://osu.ppy.sh/beatmapsets/2020901#mania/4208656)
   3. [BlackY vs. Yooh - HAVOX (Hehoooh) [HTobiiVOX (TobiiMS + LNs)]](https://osu.ppy.sh/beatmapsets/1874364#mania/3856918)
 - Tiebreaker
   1. **[Akiri feat. HowToPlayLN - The Cry of the Uncertain (gay short cat) [Breaking Limitations]](https://osu.ppy.sh/beatmapsets/2020118#mania/4206994)**
@@ -326,7 +326,7 @@ This competition has come to an end and resulted in the following podium:
   7. [Tokyo Jihen - Sounan (paradoxus_) [:(]](https://osu.ppy.sh/beatmapsets/1769332#mania/3621935)
 - Long Note
   1. [Various Artists - o2jam FLN Collection 1 (Darcsen) [Go Hell]](https://osu.ppy.sh/beatmapsets/1312420#mania/2720091)
-  2. [HoneyWorks - Kikoemasu ka feat. Haruki <Youshouki> (CV: Koinu) (Aqua Minato) [release]](https://osu.ppy.sh/beatmapsets/1795420#mania/3680072)
+  2. [HoneyWorks - Kikoemasu ka feat. Haruki \<Youshouki\> (CV: Koinu) (Aqua Minato) [release]](https://osu.ppy.sh/beatmapsets/1795420#mania/3680072)
   3. [Polyphia - ABC (feat. Sophia Black) (Lovelyn) [Fuck // Lv.69]](https://osu.ppy.sh/beatmapsets/1944530#mania/4022864)
   4. [TUYU - Territory Battle (Remuring) [Aggression]](https://osu.ppy.sh/beatmapsets/1554314#mania/3175624)
   5. [MOMOLAND - BAAM (Makiba) [7k - Schoolgirl's lvl 58]](https://osu.ppy.sh/beatmapsets/1779965#mania/3645256)
@@ -635,4 +635,4 @@ A two minute timer will be placed on a disconnected player when the song played 
 
 Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-*Ruleset is adapted from [SOFT 6](https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6) and previous osu! PH tournaments.*
+*Ruleset is adapted from [SOFT 6](/wiki/Tournaments/SOFT/6) and previous osu! PH tournaments.*
