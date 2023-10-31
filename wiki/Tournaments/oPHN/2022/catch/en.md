@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Henrick** ::{ flag=CA }:: | **6** | 2 | ::{ flag=PH }:: -Rustyy | [#1](https://osu.ppy.sh/mp/100438868) |
+| **Henrick** ::{ flag=CA }:: | **6** | 2 | ::{ flag=PH }:: -Rustyy | [#1](https://osu.ppy.sh/community/matches/100438868) |
 | - Kielzu - ::{ flag=PH }:: | 5 | **6** | ::{ flag=PH }:: **-Rustyy** | [#1](https://osu.ppy.sh/community/matches/100381247) |
 
 ### Finals
@@ -227,9 +227,9 @@ This competition has come to an end and resulted in the following podium:
 | **Laqure** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: CoolEVT | [#1](https://osu.ppy.sh/community/matches/100055443) |
 | **- Kielzu -** ::{ flag=PH }:: | **5** | 1 | ::{ flag=PH }:: Mawile | [#1](https://osu.ppy.sh/community/matches/100054852) |
 | **Jinyori** ::{ flag=PH }:: | **5** | 1 | ::{ flag=PH }:: Puro and Colin | [#1](https://osu.ppy.sh/community/matches/100052682) |
-| **Puro and Colin** ::{ flag=PH }:: | **5** | 2 | ::{ flag=PH }:: Kuroiden | [#1](https://osu.ppy.sh/mp/100049642) |
-| **Jinyori** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: -HyperDream | [#1](https://osu.ppy.sh/mp/100017462) |
-| **Laqure** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: slvn_pedro | [#1](https://osu.ppy.sh/mp/100013263) |
+| **Puro and Colin** ::{ flag=PH }:: | **5** | 2 | ::{ flag=PH }:: Kuroiden | [#1](https://osu.ppy.sh/community/matches/100049642) |
+| **Jinyori** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: -HyperDream | [#1](https://osu.ppy.sh/community/matches/100017462) |
+| **Laqure** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: slvn_pedro | [#1](https://osu.ppy.sh/community/matches/100013263) |
 | **Henrick** ::{ flag=CA }:: | **5** | 2 | ::{ flag=PH }:: -Rustyy | [#1](https://osu.ppy.sh/community/matches/100010863) |
 | arwab ::{ flag=PH }:: | 1 | **5** | ::{ flag=PH }:: **CoolEVT** | [#1](https://osu.ppy.sh/community/matches/99962688) |
 
@@ -237,23 +237,23 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Rustyy** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Jinyori | [#1](https://osu.ppy.sh/mp/99842560) |
+| **-Rustyy** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Jinyori | [#1](https://osu.ppy.sh/community/matches/99842560) |
 | **CoolEVT** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: Chloebe | [#1](https://osu.ppy.sh/community/matches/99841917) |
 | **Henrick** ::{ flag=CA }:: | **4** | 0 | ::{ flag=PH }:: Puro and Colin | [#1](https://osu.ppy.sh/community/matches/99835436) |
-| **- Kielzu -** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: arwab | [#1](https://osu.ppy.sh/mp/99804602) |
+| **- Kielzu -** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: arwab | [#1](https://osu.ppy.sh/community/matches/99804602) |
 | **Mawile** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: Laqure | [#1](https://osu.ppy.sh/community/matches/99799498) |
-| Kyonkichi ::{ flag=PH }:: | 3 | **4** | ::{ flag=PH }:: **Kuroiden** | [#1](https://osu.ppy.sh/mp/99798469) |
+| Kyonkichi ::{ flag=PH }:: | 3 | **4** | ::{ flag=PH }:: **Kuroiden** | [#1](https://osu.ppy.sh/community/matches/99798469) |
 
 ### Round of 16
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Laqure** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Kuroiden | [#1](https://osu.ppy.sh/mp/99603839) |
-| **Puro and Colin** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: slvn_pedro | [#1](https://osu.ppy.sh/mp/99600977) |
-| **-Rustyy** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: CoolEVT | [#1](https://osu.ppy.sh/mp/99569808) |
-| -HyperDream ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **arwab** | [#1](https://osu.ppy.sh/mp/99563126) |
-| **Mawile** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Kyonkichi | [#1](https://osu.ppy.sh/mp/99561985) |
-| **Jinyori** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: Chloebe | [#1](https://osu.ppy.sh/mp/99559982) |
+| **Laqure** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Kuroiden | [#1](https://osu.ppy.sh/community/matches/99603839) |
+| **Puro and Colin** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: slvn_pedro | [#1](https://osu.ppy.sh/community/matches/99600977) |
+| **-Rustyy** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: CoolEVT | [#1](https://osu.ppy.sh/community/matches/99569808) |
+| -HyperDream ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **arwab** | [#1](https://osu.ppy.sh/community/matches/99563126) |
+| **Mawile** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Kyonkichi | [#1](https://osu.ppy.sh/community/matches/99561985) |
+| **Jinyori** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: Chloebe | [#1](https://osu.ppy.sh/community/matches/99559982) |
 
 ## Ruleset
 
