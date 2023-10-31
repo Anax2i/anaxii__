@@ -21,7 +21,7 @@ The **osu! Philippines Nationals 2021 (osu!mania) 4K/7K** (***PHNM 2021***) was 
 | Round of 16 | 2021-06-26/2021-06-27 |
 | Quarterfinals | 2021-07-03/2021-07-04 |
 | Semifinals | 2021-07-10/2021-07-11 |
-| Finals week 1| 2021-07-17/2021-07-18 |
+| Finals week 1 | 2021-07-17/2021-07-18 |
 | Finals week 2 | 2021-07-24/2021-07-25 |
 
 ## Prizes

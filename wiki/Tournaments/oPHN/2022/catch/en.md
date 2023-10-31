@@ -130,7 +130,7 @@ This competition has come to an end and resulted in the following podium:
 - No Mod
   1. [technoplanet - Intuition (Jemzuu) [Overdose]](https://osu.ppy.sh/beatmapsets/1553878#fruits/3185378)
   2. [Shiena Nishizawa - Meaning (-Sh1n1-) [Diluvio]](https://osu.ppy.sh/beatmapsets/704768#fruits/1490845)
-  3. Deleted map - https://osu.ppy.sh/b/2629332
+  3. [goreshit - broken promises/scattered dreams (Bunnrei) [team philippines/overdose]](https://osu.ppy.sh/beatmapsets/1265137#fruits/2629332)
   4. [AliA - impulse (skytuna) [Akitoshi's Extreme]](https://osu.ppy.sh/beatmapsets/962863#fruits/2196278)
 - Hidden
   1. [James Landino - Reaction feat. Skyleaf (Liyac) [Team United States' Overdose]](https://osu.ppy.sh/beatmapsets/1556107#fruits/3178904)
