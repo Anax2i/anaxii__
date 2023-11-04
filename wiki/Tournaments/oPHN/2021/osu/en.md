@@ -22,35 +22,3 @@ The **osu! Philippines Nationals 2021 (osu!standard)** (***PHNS 2021***) was a o
 | Semifinals | 2021-10-22/2021-07-24 |
 | Finals | 2021-10-29/2021-10-31 |
 | Grand finals | 2021-11-05/2021-11-07 |
-
-## Prizes
-
-*To be added*
-
-## Organisation
-
-*To be added*
-
-## Links
-
-*To be added*
-
-## Participants
-
-*To be added*
-
-## Podium
-
-*To be added*
-
-## Mappools
-
-*To be added*
-
-## Match results
-
-*To be added*
-
-## Rulesets
-
-*To be added*

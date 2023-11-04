@@ -52,14 +52,6 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 - [Twitch](https://www.twitch.tv/osuliveph)
 - [Youtube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
 
-## Participants
-
-*To be added*
-
-## Mappools
-
-*To be added*
-
 ## Rulesets
 
 ### General rules

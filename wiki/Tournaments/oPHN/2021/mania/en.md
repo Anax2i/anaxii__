@@ -23,35 +23,3 @@ The **osu! Philippines Nationals 2021 (osu!mania) 4K/7K** (***PHNM 2021***) was 
 | Semifinals | 2021-07-10/2021-07-11 |
 | Finals week 1 | 2021-07-17/2021-07-18 |
 | Finals week 2 | 2021-07-24/2021-07-25 |
-
-## Prizes
-
-*To be added*
-
-## Organisation
-
-*To be added*
-
-## Links
-
-*To be added*
-
-## Participants
-
-*To be added*
-
-## Podium
-
-*To be added*
-
-## Mappools
-
-*To be added*
-
-## Match results
-
-*To be added*
-
-## Rulesets
-
-*To be added*
