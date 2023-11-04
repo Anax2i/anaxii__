@@ -4,11 +4,11 @@ tags:
   - PHNS 2023
 ---
 
-# osu! Philippines Nationals 2023 - osu!standard
+# osu! Philippines Nationals 2023 - osu!
 
 ![PHNS2023 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2023 (osu!standard)** (***PHNS 2023***) was a one-on-one, osu!standard tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2023 (osu!)** (***PHNS 2023***) was a one-on-one, osu! tournament made for osu! players based in the Philippines or of Filipino Heritage.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **osu! Philippines Nationals 2023 (osu!standard)** (***PHNS 2023***) was a o
 
 ## Organisation
 
-The osu! Philippines Nationals 2023 (osu!standard) was ran by various community members.
+The osu! Philippines Nationals 2023 (osu!) was ran by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
