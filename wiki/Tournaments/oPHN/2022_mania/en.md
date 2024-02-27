@@ -8,7 +8,7 @@ tags:
 
 ![PHNM2022 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) was a one-on-one, osu!mania 4K and 7K tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2022 - osu!mania 4K/7K** (***PHNM 2022***) was a one-on-one, osu!mania 4K and 7K tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -32,27 +32,29 @@ The **osu! Philippines Nationals 2022 (osu!mania) 4K/7K** (***PHNM 2022***) was 
 
 ## Organisation
 
-The osu! Philippines Nationals 2022 - osu!mania was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Mappool Selector 4K | ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=US }:: [[GS]Rose](https://osu.ppy.sh/users/9481266), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Mappool Selector 7K | ::{ flag=PH }:: [GTXCZE](https://osu.ppy.sh/users/9209185), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Mappool selector (4K) | ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=US }:: [[GS]Rose](https://osu.ppy.sh/users/9481266), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
+| Mappool selector (7K) | ::{ flag=PH }:: [GTXCZE](https://osu.ppy.sh/users/9209185), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [SilentVoice](https://osu.ppy.sh/users/9570552), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625) |
 | Commentator | ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=PH }:: [[KN]Frossno](https://osu.ppy.sh/users/17480973), ::{ flag=PH }:: [[KN]hana](https://osu.ppy.sh/users/14371401), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=PH }:: [[KN]Lazereed](https://osu.ppy.sh/users/12894120), ::{ flag=PH }:: [[KN]Lordieee](https://osu.ppy.sh/users/10010130), ::{ flag=PH }:: [MCJze](https://osu.ppy.sh/users/14559339), ::{ flag=PH }:: [[KN]Melancholy](https://osu.ppy.sh/users/11306351), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Steeeven](https://osu.ppy.sh/users/15503384), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [Jianshyy](https://osu.ppy.sh/users/9178563), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [Jianshyy](https://osu.ppy.sh/users/9178563), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
 | Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1560227)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1560227)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1_wM5fumI4LpKtIxio0evxpkts3XLCuaQrhX-YWQKbUI/)
-- [Twitch Livestream](https://www.twitch.tv/osuliveph)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
 
-## Participants (osu!mania 4K)
+## Participants
+
+### osu!mania 4K
 
 - ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815)
 - ::{ flag=PH }:: [Vulpsi](https://osu.ppy.sh/users/12584420)
@@ -112,7 +114,7 @@ The osu! Philippines Nationals 2022 - osu!mania was ran by various community mem
 - ::{ flag=PH }:: [KnfeConcorde](https://osu.ppy.sh/users/18390445)
 - ::{ flag=PH }:: [SZ20](https://osu.ppy.sh/users/28352929)
 
-## Participants (osu!mania 7K)
+### osu!mania 7K
 
 - ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
 - ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011)

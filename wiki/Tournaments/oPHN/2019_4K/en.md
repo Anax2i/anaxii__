@@ -10,7 +10,7 @@ tags:
 
 > Be the **MAJESTIC** Maestro.
 
-The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) was a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage. It was the first instalment of the osu! Philippines Nationals.
+The **osu! Philippines Nationals 2019 - osu!mania 4K** (***PHN4K 2019***) was a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino heritage. It was the first instalment of the osu! Philippines Nationals.
 
 ## Tournament schedule
 
@@ -36,6 +36,8 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) was a 
 
 ## Organisation
 
+The osu! Philippines Nationals 2019 - osu!mania 4K was run by various community members.
+
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
@@ -50,10 +52,9 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) was a 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902235)
-- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live "YouTube")
-- [Twitch](https://www.twitch.tv/osuliveph "Twitch")
-- [Challonge](https://challonge.com/oPHN4K19 "Challonge")
-- [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS "Discord")
+- [YouTube livestream](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
+- [Challonge bracket](https://challonge.com/oPHN4K19)
 
 ## Participants
 
@@ -66,7 +67,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) was a 
 
 ## Mappools
 
-### Finals Week 2
+### Finals week 2
 
 **[Download the mappack here! (110.0 MB)](https://drive.google.com/file/d/1B-XFD-22U3LSc8XOQtVkL19ShoaMYLFA/view?usp=sharing)**
 
@@ -202,7 +203,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) was a 
 
 ## Match results
 
-### FInals Week 2
+### FInals week 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBdY3-MFdsRSCJsuRsE6c0gNzM7xfvfIx4fDhJHOXgkPX0Rdi0qqztAh6XyPi913xPP13MsIdkBnsl/pubhtml)
 
@@ -215,7 +216,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | Silhoueska Elze | 4 | **7** | **- Kura -** | [#1](https://osu.ppy.sh/community/matches/53330098) |
 | **- Kura -** | **7** | 4 | Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/53332229) |
 
-### Finals Week 1
+### Finals week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBELP03VARFkIDnuYthz-KfeWHDB35bR6aN-9PuiCeqtMJIK3tWPqCI70cV2ArZ1N-Muq3JeA68rZZ/pubhtml)
 

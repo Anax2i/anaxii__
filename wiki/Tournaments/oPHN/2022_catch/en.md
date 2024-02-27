@@ -8,7 +8,7 @@ tags:
 
 ![PHNC2023 banner](img/banner.png)
 
-The **osu! Philippines Nationals 2022 (osu!catch)** (***PHNC 2022***) was a one-on-one, osu!catch tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2022 - osu!catch** (***PHNC 2022***) was a one-on-one, osu!catch tournament made for osu! players based in the Philippines or of Filipino heritage.
 
 ## Tournament schedule
 
@@ -20,19 +20,19 @@ The **osu! Philippines Nationals 2022 (osu!catch)** (***PHNC 2022***) was a one-
 | Quarterfinals | 2022-04-16/2022-04-17 |
 | Semifinals | 2022-04-23/2022-04-24 |
 | Finals | 2022-04-30/2022-05-01 |
-| Grand finals | 2022-05-07/2022-05-08 |
+| Grand Finals | 2022-05-07/2022-05-08 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 3,100 Philippine Pesos |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,550 Philippine Pesos |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 775 Philippine Pesos |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 3,100 Philippine pesos |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,550 Philippine pesos |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 775 Philippine pesos |
 
 ## Organisation
 
-The osu! Philippines Nationals 2022 - osu!catch was ran by various community members.
+The osu! Philippines Nationals 2022 - osu!catch was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -46,11 +46,11 @@ The osu! Philippines Nationals 2022 - osu!catch was ran by various community mem
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1527761)
-- [Challonge](https://challonge.com/phnc2022)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1527761)
+- [Challonge bracket](https://challonge.com/phnc2022)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1MYhGrnaSJf7wx554-_tnUjAJQOPQ7pudcDbSt3NToQY/edit?usp=sharing)
-- [Twitch Livestream](https://www.twitch.tv/osuliveph)
-- [Youtube Livestream](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch livestream](https://www.twitch.tv/osuliveph)
+- [YouTube livestream](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
 
 ## Participants
 
@@ -81,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappool
 
-### Grand finals
+### Grand Finals
 
 - No Mod
   1. [t+pazolite - Ultrasonic Anthem (Kobaryo's FTN-Remix) (Emiru) [Unfathomable Hymn]](https://osu.ppy.sh/beatmapsets/1301143#fruits/2698790)
@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker 
   1. [Silentroom - Nhelv (Bunnrei) [Aftermath]](https://osu.ppy.sh/beatmapsets/1755429#fruits/3592362)
 
-## Finals
+### Finals
 
 - No Mod
   1. [hololive IDOL PROJECT - BLUE CLAPPER (Secre) [CLAP YOUR HANDS]](https://osu.ppy.sh/beatmapsets/1418431#fruits/2922402)
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
