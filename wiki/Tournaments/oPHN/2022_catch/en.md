@@ -271,7 +271,7 @@ This competition has come to an end and resulted in the following podium:
 - In order to advance to the knockout stage, players need to accumulate enough scores for each mod bracket.
 - Participants will be split into lobbies for different times during the day.
 - Participants have the discretion to change their lobbies 2 days before the start of the Qualifiers.
-- As the Qualifiers on each lobby starts, the map pool will follow this pattern:
+- As the Qualifiers on each lobby starts, the mappool will follow this pattern:
   - NM 1 -> HD 1 -> HR 1 -> DT 1 -> NM 2 -> HD 2 -> HR 2 -> DT 2
 - 2 rotations will occur per each session.
 - In case of ties in Qualifier scores, the seeding of affected players will be based on their current performance points as of the day when the Qualifiers started.
