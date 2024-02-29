@@ -265,9 +265,6 @@ This competition has come to an end and resulted in the following podium:
 - Players cannot nullify a beatmap under any circumstances
 - Players will be given 10 minutes to join the lobby, failing to show up will result to win by default(WBD).
 - The first 30 seconds of the match can be aborted by the referee if any unfortunate event happen in player's end such as sudden internet disconnections or blackout this is only allowed once in a match per player/participants and they will be given 3 minutes to get back in order to restart the round.
-- Players are allowed to join the 10 minutes before the scheduled match.
-- Players cannot nullify a beatmap under any circumstances
-- Players will be given 10 minutes to join the lobby, failing to show up will result to win by default(WBD).
 
 ### Qualifier guidelines
 
@@ -298,7 +295,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool format
 
-The mappool format for qualifiers that this tournament will be using will be the following:
+#### Qualifiers
 
 | Mappool bracket | Maps |
 | :-- | :-- |
@@ -307,7 +304,7 @@ The mappool format for qualifiers that this tournament will be using will be the
 | Hard Rock (HR) | 2 |
 | Double Time (DT) | 2 |
 
-The mappool format for knockouts will use this format throughout the rounds:
+#### Knockout stage
 
 | Mappool bracket | Maps |
 | :-- | :-- |
