@@ -268,18 +268,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifier guidelines
 
-- In order to advance to the knockout stage, Players need to accumulate enough scores for each mod bracket in order to be able to proceed to knockout stage.
-- Participants will be split into lobbies with different time within the day.
-- Participants has the discretion to change their lobbies 2 days before the start of the qualifiers.
-- As the qualifiers on each lobby starts, the map pool will traverse in this pattern:
-  - NM 1 > HD 1 > HR 1 > DT 1 > NM 2 > HD 2 > HR 2 > DT 2
-- 2 Rotations will occur per each session.
-- If a tied overall qualifier scores occurred, the seeding of each involved player will based on their current performance points as of the day when the qualifiers started
+- In order to advance to the knockout stage, players need to accumulate enough scores for each mod bracket.
+- Participants will be split into lobbies for different times during the day.
+- Participants have the discretion to change their lobbies 2 days before the start of the Qualifiers.
+- As the Qualifiers on each lobby starts, the map pool will follow this pattern:
+  - NM 1 -> HD 1 -> HR 1 -> DT 1 -> NM 2 -> HD 2 -> HR 2 -> DT 2
+- 2 rotations will occur per each session.
+- In case of ties in Qualifier scores, the seeding of affected players will be based on their current performance points as of the day when the Qualifiers started.
 
 ### Knockout guidelines
 
-- Knockouts will be double eliminations, this means there will be losers bracket, and each players are twice to beat.
-- Game sizes on each stages are the following:
+- Knockouts will be double eliminations, which means there will be losers' bracket, and each player needs to lose twice in order to be eliminated.
+- Match conditions for each stage are as follows:
 
 | Round Stage | Best of | First to |
 | :-- | :-- | :-- |
@@ -289,9 +289,9 @@ This competition has come to an end and resulted in the following podium:
 | Finals | 9 | 5 |
 | Grandfinals | 11 | 6 |
 
-- When a Player quits the match, They will be given 5 minutes to go back to the match lobby, failing to comply will result to a disqualification.
+- When a player quits a match, they will be given 5 minutes to go back to the match lobby. Failing to do so will result to a disqualification.
 - Players are only allowed to ban 1 map per match.
-- Players who gets the highest roll will pick first, otherwise ban first.
+- Players who get the highest roll will pick first, and their opponent will ban first.
 
 ### Mappool format
 
@@ -316,9 +316,9 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mod usage rules
 
-- **Players are required to use No Fail mod before starting the matches.**
-- Tie Breaker will be played with NoMod. The use of HD mod will be allowed.
-- At any map, players are not allowed to use the following mods:
+- **Players are required to enable No Fail before starting matches.**
+- The tiebreaker will be played with No Mod, but the use of Hidden will be allowed.
+- During any map, players are not allowed to use the following mods:
   - Easy
   - Half Time
   - Sudden Death/Perfect
