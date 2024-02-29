@@ -261,10 +261,10 @@ This competition has come to an end and resulted in the following podium:
 ### General rules
 
 - ScoreV2 will be used for this tournament.
-- Players are allowed to join the 10 minutes before the scheduled match.
+- Players are allowed to join 10 minutes before the scheduled match.
 - Players cannot nullify a beatmap under any circumstances
-- Players will be given 10 minutes to join the lobby, failing to show up will result to win by default(WBD).
-- The first 30 seconds of the match can be aborted by the referee if any unfortunate event happen in player's end such as sudden internet disconnections or blackout this is only allowed once in a match per player/participants and they will be given 3 minutes to get back in order to restart the round.
+- Players will be given 10 minutes to join the lobby, and failing to show up will result in a win by default (WBD).
+- A match may be aborted by a referee if any mishaps happen during the first 30 seconds of a match, such as for sudden internet disconnections or blackouts. This is only allowed once in a match per player and they will be given 3 minutes to get back in order to restart the round.
 
 ### Qualifier guidelines
 
@@ -281,13 +281,13 @@ This competition has come to an end and resulted in the following podium:
 - Knockouts will be double eliminations, which means there will be losers' bracket, and each player needs to lose twice in order to be eliminated.
 - Match conditions for each stage are as follows:
 
-| Round Stage | Best of | First to |
+| Stage | Best of | First to |
 | :-- | :-- | :-- |
 | Round of 16 | 7 | 4 |
 | Quarterfinals | 7 | 4 |
 | Semifinals | 9 | 5 |
 | Finals | 9 | 5 |
-| Grandfinals | 11 | 6 |
+| Grand Finals | 11 | 6 |
 
 - When a player quits a match, they will be given 5 minutes to go back to the match lobby. Failing to do so will result to a disqualification.
 - Players are only allowed to ban 1 map per match.
@@ -325,4 +325,4 @@ This competition has come to an end and resulted in the following podium:
   - Flashlight
   - Relax
   - Auto
-- When playing either Double Time or HardRock maps, players are allowed to pick Hidden mod.
+- When playing either Double Time or Hard Rock maps, players are allowed to pick the Hidden mod.
