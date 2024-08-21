@@ -464,7 +464,7 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \[KN\]Puddles ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **4Kenn** | [#1](https://osu.ppy.sh/community/matches/102123427) |
-| **Vulpsi** ::{ flag=PH }:: | **7** | 2 | :: { flag=PH }:: [KN]MysteryL | [#1](https://osu.ppy.sh/community/matches/102124331) |
+| **Vulpsi** ::{ flag=PH }:: | **7** | 2 | ::{ flag=PH }:: [KN]MysteryL | [#1](https://osu.ppy.sh/community/matches/102124331) |
 | Apol- ::{ flag=PH }:: | 4 | **7** | ::{ flag=PH }:: **Silicosis** | [#1](https://osu.ppy.sh/community/matches/102125135) |
 | **4Kenn** ::{ flag=PH }:: | **7** | 1 | ::{ flag=PH }:: Silicosis | [#1](https://osu.ppy.sh/community/matches/102153285) |
 
