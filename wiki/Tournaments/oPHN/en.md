@@ -10,3 +10,4 @@ Index page for all of the osu! Philippines Nationals series.
 - [osu! Philippines Nationals 2023 - osu!mania](2023_mania)
 - [osu! Philippines Nationals 2023 - osu!taiko](2023_taiko)
 - [osu! Philippines Nationals 2023 - osu!catch](2023_catch)
+- [osu! Philippines Nationals 2024 - osu!mania 4K/7K](2024_mania)
