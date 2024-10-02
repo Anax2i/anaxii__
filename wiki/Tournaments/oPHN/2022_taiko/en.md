@@ -283,7 +283,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### General rules
 
-1. This is an osu!taiko, double-elimination, IVI tournament, which is open for players globally ranked from #1000 to #10000 (inclusive) with the Philippine flag on their profile. Filipino players without the Philippine flag on their profile may present a proof of their Philippine citizenship in order to join. Hosts, poolers (custom mappers and playtesters included), and referees are strictly not allowed to play.
+1. This is an osu!taiko, double-elimination, 1v1 tournament open to players globally ranked #1000 to #10000 with the Philippines' flag on their profile. Filipino players without the Philippines' flag on their profile may present a proof of their Philippine citizenship in order to join. Hosts, poolers (custom mappers and playtesters included), and referees are strictly not allowed to play.
 2. Matches will use ScoreV2 and No Fail in Head-to-head mode.
 3. Players and staff must be treated with respect. Instructions from the hosts and referees are to be followed. Abusing the rules and poor sportsmanship may result in disqualification from the entire tournament.
 4. Any modification from the ruleset will be announced. Players must be active on the tournament's discord server in the case of these modifications.
