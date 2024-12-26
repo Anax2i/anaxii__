@@ -30,6 +30,6 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **No Release** mod removes the [accuracy](/wiki/Gameplay/Accuracy) penalty when releasing a key on the tail of [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note).
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
