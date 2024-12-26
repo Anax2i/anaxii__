@@ -41,7 +41,7 @@ The **Easy** mod attempts to make gameplay on any [beatmap](/wiki/Beatmap) playe
 
 ![Easy customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.jpg)
 
-- **Extra Lives** (0–10, default 2): Lets you choose the number of lives you want to obtain when starting a beatmap.
+- **Extra Lives** (0–10, default 2): Lets you choose the number of lives you want to obtain when starting a beatmap
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
